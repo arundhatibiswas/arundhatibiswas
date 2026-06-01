@@ -25,7 +25,3 @@
 
 ### 📫 Connect
 [LinkedIn](https://www.linkedin.com/in/arundhati-biswas-387482276) • [Upwork](https://www.upwork.com/) • 📍 Bangalore, India
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arundhatibiswas&show_icons=true&theme=default)
