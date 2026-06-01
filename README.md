@@ -3,8 +3,11 @@
 **Web Developer & n8n Automation Builder** — building smart workflows, fast websites, and real-world solutions.
 
 🔹 Full-stack web development — React, Node.js, JavaScript, PHP, WordPress, Shopify
+
 🔹 AI & automation — n8n workflows, AI agents, LLM integrations (OpenAI, Claude), prompt engineering
+
 🔹 Cloud & infra — AWS deployment of self-hosted platforms (n8n & more)
+
 🔹 SEO & performance optimization
 
 🚀 Co-Founder of **Vastrapvt** & **Elitexa** | BSc Computer Science '25
