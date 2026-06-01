@@ -10,7 +10,7 @@
 
 🔹 SEO & performance optimization
 
-🚀 Co-Founder of **Vastrapvt** & **Elitexa** | BSc Computer Science '25
+🚀 Co-Founder of **Vastrapvt** <!-- & **Elitexa** --> | BSc Computer Science '25
 
 ---
 
